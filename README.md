@@ -77,8 +77,13 @@ The app sends a request to a fictional API and displays results in the terminal.
 
 - Create repository  
 - Build README  
-- Add Python script  
+- Add Python script
 
+## Future Ideas
+
+- Gotham weather  
+- Alfred assistant  
+- Bat-Signal tracker  
 
 ## Contributing
 
