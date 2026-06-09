@@ -71,6 +71,8 @@ The app sends a request to a fictional API and displays results in the terminal.
     ├── README.md
     ├── batmanAPI.py
     └── requirements.txt
+    |__ docs/release_notes.md
+    
 
 
 ## Roadmap
